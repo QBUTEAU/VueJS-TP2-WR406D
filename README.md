@@ -6,7 +6,7 @@
 Récupération de l'API *https://exercice1.davidannebicque.com/* avec :
 * Une page d'accueil avec titre et sous-titre ;
 * Une page contenant le nom, le prénom et le groupe de TP ;
-* Une page affichant la liste de bandes dessinées avec l'utilisation d'un composant ainsi que la présence d'un bouton pour afficher/masquer les images ;
+* Une page affichant la liste de bandes dessinées avec l'utilisation d'un composant et la présence d'un bouton pour afficher/masquer les images ;
 * Une page affichant la liste des séries ;
 * Une navbar présente partout.
 
