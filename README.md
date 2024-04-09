@@ -23,8 +23,8 @@ Récupération de l'API *https://rickandmortyapi.com/documentation/* avec :
   * Une liste des personnages, qui ont leur nom, leur photo, un bouton Sélectionner et Voir les détails ;
   * Des boutons précédent et suivant, permettant d'afficher la liste de personnages par paquet de 20 ;
   * Un affichage de sélection de personnages, qui met en avant les noms des personnages sélectionnés avec le bouton Sélectionner ;
-  * Le nombre de personnages affichés par rapport au nombre total de personnages présent dans la liste
-  * Une route imbriquée permettant d'afficher les informations du personnages que l'on souhaite en cliquant sur Voir les détails (nom, photo, genre et espèce)
+  * Le nombre de personnages affichés par rapport au nombre total de personnages présent dans la liste ;
+  * Une route imbriquée permettant d'afficher les informations du personnages que l'on souhaite en cliquant sur Voir les détails (nom, photo, genre et espèce).
 
 --> **Site réalisé dans son entièreté.**
 
