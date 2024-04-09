@@ -42,7 +42,7 @@ const error = ref(null);
 
 const getArticles = async () => {
     try {
-        const response = await axios.get('https://exercice2.davidannebicque.com/api/articles');
+        const response = await axios.get('');
         data.value = response.data;
     } catch (err) {
         error.value = err.message;
@@ -51,7 +51,7 @@ const getArticles = async () => {
 
 const addArticle = async () => {
     try {
-        await axios.post('https://exercice2.davidannebicque.com/api/articles', newArticle.value);
+        await axios.post('', newArticle.value);
         newArticle.value = { title: '', content: '' };
         await getArticles();
     } catch (err) {
