@@ -10,10 +10,10 @@ Récupération de l'API *https://exercice1.davidannebicque.com/* avec :
 * Une page affichant la liste des séries ;
 * Une navbar présente partout.
 
- --> Site réalisé dans son entièreté.
+--> **Site réalisé dans son entièreté.**
 
 ### Exercice 2 :
- --> Site à peine commencé.
+--> **Site à peine commencé.**
 
 ### Exercice 3 :
 Récupération de l'API *https://rickandmortyapi.com/documentation/* avec :
@@ -26,7 +26,7 @@ Récupération de l'API *https://rickandmortyapi.com/documentation/* avec :
   * Le nombre de personnages affichés par rapport au nombre total de personnages présent dans la liste
   * Une route imbriquée permettant d'afficher les informations du personnages que l'on souhaite en cliquant sur Voir les détails (nom, photo, genre et espèce)
 
- --> Site réalisé dans son entièreté.
+--> **Site réalisé dans son entièreté.**
 
 
  ### &copy; Quentin Buteau | [David Annebicque](https://github.com/Dannebicque) - Tous droits réservés
