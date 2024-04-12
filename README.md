@@ -1,4 +1,4 @@
-# TP2-Vuejs
+# VueJS-TP2-WR406D
 
 Évaluation finale du module Développement Front du semestre 4 du BUT MMI, sur le framework Vue.js.
 
