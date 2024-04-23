@@ -29,4 +29,4 @@ Récupération de l'API *https://rickandmortyapi.com/documentation/* avec :
 --> **Site réalisé dans son entièreté.**
 
 
- ### &copy; Quentin Buteau | [David Annebicque](https://github.com/Dannebicque) - Tous droits réservés
+ ### &copy; 2024 Quentin Buteau | [David Annebicque](https://github.com/Dannebicque) - Tous droits réservés
