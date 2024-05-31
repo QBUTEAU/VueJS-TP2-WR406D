@@ -1,6 +1,6 @@
 # WR406D | TP2 - Vue.js
 
-Évaluation finale du module Développement Front du semestre 4 du BUT MMI, sur le framework Vue.js.
+Évaluation finale du module Développement Front du semestre 4 du BUT MMI, sur le framework Vue.js.<br>
 3 exercices à réaliser en 3h :
 
 ### Exercice 1 :
